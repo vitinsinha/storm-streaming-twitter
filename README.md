@@ -9,11 +9,10 @@ This application uses Twitter 4j library for consuming live Twitter streaming AP
 This application can be run locally on Intellij IDEA or can be submitted to an existing Storm cluster.
 
 ### Storm installation
-```
-I followed this article to setup Apache Storm on a single server:
 
+I followed this article to setup Apache Storm on a single server:  
 https://vincenzogulisano.com/2015/07/30/5-minutes-storm-installation-guide-single-node-setup/
-```
+
 
 ### Submitting the topology to an existing storm cluster
 ```
